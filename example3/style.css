@@ -1,0 +1,38 @@
+html{
+
+    background-color: #FFF0F5;
+    color: #00b9b9;
+    font-family: "Gill Sans", sans-serif;
+    font-size: 15pt;
+}
+h1,h2 {
+ font-family: "Gill Sans", sans-serif;
+ 
+}
+
+img{
+    width:75%;
+}
+
+#nice{
+    color:rgb(44, 44, 44);
+}
+
+.special-items:hover{
+    font-style:italic;
+    background-color: rgb(255, 94, 126);
+    
+}
+
+a:hover{
+    background-color: rgb(255, 0, 255);
+
+}
+
+.heading-10{
+    font-size: 30pt;
+}
+
+img {
+    width: 512px; /* set image width */
+}
